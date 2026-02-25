@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tourist Spots</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Explore Tourist Spots</h1>
+        <p>Discover the beauty of amazing places around the world</p>
+    </header>
+
+    <main>
+        <section class="tourist-grid">
+            <div class="spot">
+                <img src="https://source.unsplash.com/400x300/?beach" alt="Beach">
+                <h2>Sunny Beach</h2>
+                <p>Relax on the golden sands and enjoy the clear waters.</p>
+            </div>
+            <div class="spot">
+                <img src="https://source.unsplash.com/400x300/?mountain" alt="Mountain">
+                <h2>Majestic Mountains</h2>
+                <p>Hike the trails and take in breathtaking mountain views.</p>
+            </div>
+            <div class="spot">
+                <img src="https://source.unsplash.com/400x300/?city" alt="City">
+                <h2>Vibrant City</h2>
+                <p>Experience the bustling city life with culture and cuisine.</p>
+            </div>
+            <div class="spot">
+                <img src="https://source.unsplash.com/400x300/?forest" alt="Forest">
+                <h2>Green Forest</h2>
+                <p>Escape into nature with lush forests and wildlife.</p>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Explore Tourist Spots. All rights reserved.</p>
+    </footer>
+</body>
+</html>
